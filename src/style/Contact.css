@@ -1,0 +1,10 @@
+.contact-label{
+    color:rgb(106, 106, 106);
+}
+
+.contact-form{
+    border-color: rgb(174, 174, 174)
+}
+.form-up > input{
+    margin-top: 3px;
+}

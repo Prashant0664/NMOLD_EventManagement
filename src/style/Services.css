@@ -1,0 +1,18 @@
+.service-card-main{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    margin:15px 6rem;
+    gap:1.7rem;
+    /* backg round-color: red; */
+}
+.service-card{
+    border:solid 1px grey;
+    background-color: rgb(255, 248, 239);
+    transition: 400ms;
+}
+.service-card:hover{
+    transition: 400ms;
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}

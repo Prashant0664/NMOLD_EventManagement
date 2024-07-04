@@ -1,0 +1,15 @@
+.footer-main{
+    position: relative;
+}
+.footer-bg-img{
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+}
+.footer-ubn-d{
+    background-color: rgba(0,0,0,0.5);
+    border: solid 1px white;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+}

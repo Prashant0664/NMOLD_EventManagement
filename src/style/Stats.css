@@ -1,0 +1,15 @@
+.stats-box{
+    background-color: rgb(255, 0, 98);
+    background-color: rgb(0, 255, 183);
+    width:20%;
+    justify-content: center;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    letter-spacing: 1.3px;
+}
+.stats-box:hover{
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+.stats-main-bg{
+    /* background-image: url("../assets/stats_bg.avif"); */
+    /* background-size: cover; */
+}

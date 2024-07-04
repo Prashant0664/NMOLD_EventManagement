@@ -1,0 +1,18 @@
+.background{
+    background-color: white;
+    box-shadow: 0px 0px 10px grey;
+    top:0px;
+    position: relative;
+}
+.menu-title{
+    font-size: 1.3em;
+    color:rgb(149, 149, 149);
+    z-index: 100;
+    letter-spacing: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.menu-title:hover{
+    color: #f1c40f;
+    cursor: pointer;
+}
